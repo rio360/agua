@@ -1,0 +1,42 @@
+{
+  "name": "agua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rio360/agua.git"
+  },
+  "scripts": {
+    "serve": "gulp serve -s"
+  },
+  "author": {
+    "name": "Arthur Jacob",
+    "email": "jacob@emitremmus.com",
+    "url": "https://emitremmus.com"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/rio360/agua/issues"
+  },
+  "homepage": "https://github.com/rio360/agua#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "ansi-colors": "^4.1.1",
+    "browser-sync": "^2.26.7",
+    "fancy-log": "^1.3.2",
+    "fs-extra": "^8.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-inline-source": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}

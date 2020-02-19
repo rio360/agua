@@ -1,0 +1,13 @@
+{
+	"files.exclude": {
+		"*-lock.*": true,
+		"**/node_modules": true,
+		// "deploy/": true,
+		"docs/": true,
+		"desktop.ini": true
+	},
+	"search.exclude": {
+		"deploy/": true,
+		"docs/": true
+	}
+}
